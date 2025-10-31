@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
-  <rect width="1024" height="1024" fill="#FAFAF8"/>
-  <path fill="#6A0F0F" d="
-    M180,800 L220,620 L300,560 L420,460 L560,360 L600,420 L700,520 L780,620 L820,760 
-    L760,780 L700,800 L640,830 L560,860 L480,860 L380,830 L300,790 Z
-  "/>
-  <!-- Open mouth cutout -->
-  <path fill="#FAFAF8" d="M660,560 C740,540 820,560 820,640 C820,720 760,760 700,760 C660,760 620,740 630,680 C640,620 620,580 660,560 Z"/>
-  <!-- Fangs -->
-  <path fill="#FAFAF8" d="M760,620 L785,670 L745,655 Z"/>
-  <path fill="#FAFAF8" d="M710,690 L735,730 L690,720 Z"/>
-  <!-- Eye -->
-  <rect x="600" y="480" width="40" height="20" fill="#FAFAF8" transform="rotate(10 620 490)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FAFAF8"/>
+  <path fill="#6A0F0F" d="M120,420 L180,280 L300,200 L400,140 L440,200 L480,280 L500,360 L460,380 L400,400 L320,430 L240,430 L180,400 L130,360 Z"/>
+  <path fill="#FAFAF8" d="M340,250 C420,230 500,250 500,320 C500,380 440,410 380,410 C340,410 300,390 310,340 C320,290 300,270 340,250 Z"/>
+  <path fill="#FAFAF8" d="M420,310 L440,340 L400,330 Z"/>
+  <path fill="#FAFAF8" d="M380,350 L400,380 L370,370 Z"/>
+  <rect x="360" y="220" width="20" height="10" fill="#FAFAF8"/>
 </svg>
